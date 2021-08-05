@@ -4,7 +4,8 @@
 This is an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 ### Table of Contents
-[Installation]
+[Installation]:(/
+### Installation ###)
 [description]
 [Links]
 [Installation]
@@ -12,7 +13,7 @@ This is an application called Note Taker that can be used to write and save note
 [Screenshots]
 [Built With]
 
-[### Installation ###]
+### Installation ###
 
 npm i , then npm start
 
