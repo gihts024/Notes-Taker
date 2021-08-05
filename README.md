@@ -37,6 +37,9 @@ npm i , then npm start
 
 On browser go localhost:8080, click on getting started, then click on plus sign on your top right, add the Note Title and Note Text then save. If you want to delete, click on the delete icon adjust to the notes added.
 
+
+## Screenshots##
+![Alt text](https://github.com/gihts024/Notes-Taker/blob/main/screenshot.png)
 ## License ##
 
 Free version
