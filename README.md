@@ -4,17 +4,34 @@
 
 ### Table of Contents
 [description](https://github.com/gihts024/Notes-Taker/blob/main/README.md#Description)
+
 [Links](https://github.com/gihts024/Notes-Taker/blob/main/README.md#Links)
+
 [Installation](https://github.com/gihts024/Notes-Taker/blob/main/README.md#installation)
+
 [Usage](https://github.com/gihts024/Notes-Taker/blob/main/README.md#usage)
+
 [Screenshots](https://github.com/gihts024/Notes-Taker/blob/main/README.md#screenshots)
+
 [Built With](https://github.com/gihts024/Notes-Taker/blob/main/README.md#BuiltWith)
+
+
+
 [### Description ###]
 This is an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+
+
+
 [### Links ###]
+
+
+
 [### Installation ###]
 
 npm i , then npm start
+
+
+
 
 [## usage ##]
 
