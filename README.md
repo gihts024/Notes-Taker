@@ -51,7 +51,6 @@ HTML
 CSS 
 Javascript
 
-## More Information ##]
-[gihts024](https://github.com/gihts024)
+## More Information ##
 [info@gihts.com]
 
