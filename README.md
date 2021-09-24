@@ -52,5 +52,6 @@ CSS
 Javascript
 
 ## More Information ##
-[info@gihts.com]
+[Github Link](https://github.com/gihts024)
+for more information, contact me at info@gihts.com
 
